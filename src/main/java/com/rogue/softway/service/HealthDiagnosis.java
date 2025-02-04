@@ -1,4 +1,4 @@
-package com.rogue.softway.test.service;
+package com.rogue.softway.service;
 
 import java.util.List;
 

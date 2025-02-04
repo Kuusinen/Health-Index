@@ -11,8 +11,8 @@ import java.util.List;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import com.rogue.softway.test.service.HealthDiagnosis;
-import com.rogue.softway.test.service.HealthDiagnosisImpl;
+import com.rogue.softway.service.HealthDiagnosis;
+import com.rogue.softway.service.HealthDiagnosisImpl;
 
 public class HealthDiagnosisTest {
 
